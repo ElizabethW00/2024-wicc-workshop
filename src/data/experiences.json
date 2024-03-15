@@ -1,7 +1,7 @@
 [
   {
     "logo": "/img/wicc_logo.png",
-    "role": "Developer",
+    "role": "CodePath Web Development Student",
     "time": "2023 - Present",
     "bullet points": [
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
@@ -14,9 +14,8 @@
     "role": "Developer",
     "time": "2023 - Present",
     "bullet points": [
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-      "Ut pretium arcu et massa semper, id fringilla leo semper.",
-      "Sed quis justo ac magna. Lorem ipsum dolor sit amet, consectetur adipiscing elit. "
+      "Independently building a visually engaging, one-page website exploring the music's influence on the brain using HTML, CSS (including animation), and JavaScript (data visualization)",
+      "Collaborating with fellow students in the CodePath Web Development class to learn and explore layout, functionality, and interactivity  within front-end development"
     ]
   },
   {
