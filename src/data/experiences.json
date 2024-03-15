@@ -2,30 +2,30 @@
   {
     "logo": "/img/wicc_logo.png",
     "role": "CodePath Web Development Student",
-    "time": "2023 - Present",
+    "time": "2024 - Present",
     "bullet points": [
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-      "Ut pretium arcu et massa semper, id fringilla leo semper.",
-      "Sed quis justo ac magna. Lorem ipsum dolor sit amet, consectetur adipiscing elit. "
+      "Independently building a visually engaging, one-page website exploring the music's influence on the brain using HTML, CSS (including animation), and JavaScript (data visualization).",
+      "Collaborating with fellow students in the CodePath Web Development class to learn and explore layout, functionality, and interactivity  within front-end development."
     ]
   },
   {
     "logo": "/img/wicc_logo.png",
-    "role": "Developer",
-    "time": "2023 - Present",
+    "role": "Unmanned Aircraft System (UAS) Student",
+    "time": "MAY 2022 - DEC 2022",
     "bullet points": [
-      "Independently building a visually engaging, one-page website exploring the music's influence on the brain using HTML, CSS (including animation), and JavaScript (data visualization)",
-      "Collaborating with fellow students in the CodePath Web Development class to learn and explore layout, functionality, and interactivity  within front-end development"
+      "Built and programmed a remote controlled drone using C++ which successfully launched and flew for two minutes.",
+      "Completed coursework in Intro to Unmanned Aircraft Vehicles, Drone Laws and Remote Pilot Certification, Intro to Drone Aeronautics, and Drone-based Land Surveying.",
+      "Earned FAA Remote Pilot Small Unmanned Aircraft System Certificate."
     ]
   },
   {
     "logo": "/img/wicc_logo.png",
-    "role": "Developer",
-    "time": "2023 - Present",
+    "role": "American Museum of Natural History BridgeUp: STEM Intern",
+    "time": " JULY 2020 - JULY 2021",
     "bullet points": [
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-      "Ut pretium arcu et massa semper, id fringilla leo semper.",
-      "Sed quis justo ac magna. Lorem ipsum dolor sit amet, consectetur adipiscing elit. "
+      "Created data visualizations graphs on climate change, earthquakes, sea temperature anomalies, star clusters, and Covid-19 using Python.",
+      "Developed Python scripts to identify the largest repeating unit within a spider protein sequence and utilized HTML and CSS to showcase similarities between different spider species.",
+      "Mentored incoming BridgeUP members as a Big Sib."
     ]
   }
 ]
