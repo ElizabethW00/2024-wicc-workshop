@@ -35,13 +35,13 @@ function App() {
               <a href="https://github.com/ElizabethW00">
                 <img src={githublogo} />
               </a>
-              <a href="">
+              <a href="https://www.instagram.com/3l1zabeth.w/">
                 <img src={instalogo} />
               </a>
-              <a href="">
+              <a href="https://www.figma.com/files/team/1342967207717068961/Elizabeth-Woo's-team?fuid=1342967205609397678">
                 <img src={figmalogo} />
               </a>
-              <a href="">
+              <a href="www.linkedin.com/in/elizabethwoo5">
                 <img src={linkedinlogo} />
               </a>
             </div>
