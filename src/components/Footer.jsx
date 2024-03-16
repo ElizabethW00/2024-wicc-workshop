@@ -2,7 +2,7 @@ import email from "/src/img/email.svg";
 import phone from "/src/img/phone.svg";
 const Footer = () => {
   return (
-    <footer className="bg-[#9CE2D3] rounded-tl-3xl rounded-tr-3xl p-10 flex flex-col space-y-4 px-24 test-base">
+    <footer className="bg-[#ffdee3] rounded-tl-3xl rounded-tr-3xl p-10 flex flex-col space-y-4 px-24 test-base">
       <div>
         Feel free to reach out to me if you're looking for a developer, have a
         query, or simply want to connect.
