@@ -29,7 +29,7 @@ const Project = () => {
                 ))}
               </div>
 
-              <a href={link}>
+              <a href= "https://nhenhunter.github.io/wesite_interns21/Background.html">
                 <img src={link} className="h-10" />
               </a>
             </div>
