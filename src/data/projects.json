@@ -9,6 +9,16 @@
     ]
   },
   {
+    "name": "How do Lakes Iseo, Sammamish, Saimaa, Kallavesi, and Längelmävesi Change Throughout the Years 2002 to 2020?",
+    "logo": "/img/Woo_Elizabeth_CityTech_2021posterjectimg.jpeg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas nec urna ac tellus volutpat viverra. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.",
+    "link": "https://k16.cuny.edu/stemacademy/exhibition-2021/how-do-lakes-iseo-sammamish-saimaa-kallavesi-and-langelmavesi-change-throughout-the-years-2002-to-2020/",
+    "tools": [
+      "Matlab",
+      "Excel"
+    ]
+  },
+  {
     "name": "Gene-iuses",
     "logo": "/img/Gene-iuses.png",
     "description": " Developed Python scripts to identify the largest repeating unit within a spider protein sequence and utilized HTML and CSS to showcase similarities between different spider species. Developed the Code Page and About Us page",
@@ -17,17 +27,6 @@
       "Python",
       "HTML",
       "CSS"
-    ]
-  },
-  {
-    "name": "Project Name",
-    "logo": "/img/projectimg.png",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas nec urna ac tellus volutpat viverra. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.",
-    "link": "",
-    "tools": [
-      "React",
-      "Figma",
-      "Git"
     ]
   }
 ]
