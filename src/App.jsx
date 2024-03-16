@@ -56,7 +56,7 @@ function App() {
           </div>
         </div>
       </section>
-      <section className="bg-[#9CE2D3] min-h-screen w-screen flex justify-center rounded-t-3xl p-10 ">
+      <section className="bg-[#ffdee3] min-h-screen w-screen flex justify-center rounded-t-3xl p-10 ">
         <div className="flex flex-col items-center space-y-5 w-full">
           <div className="flex text-3xl font-medium">Experience</div>
           {/* TODO 4: Add your work experience here by editing the json files in src/data/experiences.json */}
