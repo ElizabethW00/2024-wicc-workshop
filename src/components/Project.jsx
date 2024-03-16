@@ -29,7 +29,7 @@ const Project = () => {
                 ))}
               </div>
 
-              <a href="link">
+              <a href={link}>
                 <img src={link} className="h-10" />
               </a>
             </div>
