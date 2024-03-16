@@ -21,7 +21,7 @@ const Footer = () => {
       </div>
       <div>
         <p className="flex justify-center text-sm">
-          &copy; 2024 Elizabeth Woo
+          &copy; 2024 WICC Workshop
         </p>
       </div>
     </footer>
