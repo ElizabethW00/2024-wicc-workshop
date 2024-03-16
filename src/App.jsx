@@ -41,7 +41,7 @@ function App() {
               <a href="https://www.figma.com/files/team/1342967207717068961/Elizabeth-Woo's-team?fuid=1342967205609397678">
                 <img src={figmalogo} />
               </a>
-              <a href="www.linkedin.com/in/elizabethwoo5">
+              <a href="https://www.linkedin.com/in/elizabeth-woo-brownscholar/">
                 <img src={linkedinlogo} />
               </a>
             </div>

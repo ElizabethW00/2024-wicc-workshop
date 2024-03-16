@@ -10,7 +10,7 @@
   },
   {
     "name": "How do Lakes Iseo, Sammamish, Saimaa, Kallavesi, and Längelmävesi Change Throughout the Years 2002 to 2020?",
-    "logo": "public/img/Woo_Elizabeth_CityTech_2021poster.jpeg",
+    "logo": "/img/Research.png",
     "description": "Presented research findings on global lake variable changes using MATLAB. Analyzed data on water and surface temperatures for a selection of lakes across different geographic regions. Utilized MATLAB for data visualization on the changes of temperature between 2002 to 2020.",
     "link": "https://k16.cuny.edu/stemacademy/exhibition-2021/how-do-lakes-iseo-sammamish-saimaa-kallavesi-and-langelmavesi-change-throughout-the-years-2002-to-2020/",
     "tools": [
