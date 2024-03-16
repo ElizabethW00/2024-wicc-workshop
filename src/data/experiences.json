@@ -1,15 +1,15 @@
 [
   {
-    "logo": "/img/wicc_logo.png",
+    "logo": "/img/codepath.jpeg",
     "role": "CodePath Web Development Student",
-    "time": "2024 - Present",
+    "time": "FEB 2024 - PRESENT",
     "bullet points": [
       "Independently building a visually engaging, one-page website exploring the music's influence on the brain using HTML, CSS (including animation), and JavaScript (data visualization).",
       "Collaborating with fellow students in the CodePath Web Development class to learn and explore layout, functionality, and interactivity  within front-end development."
     ]
   },
   {
-    "logo": "/img/wicc_logo.png",
+    "logo": "/img/amnhlogo.jpeg",
     "role": "Unmanned Aircraft System (UAS) Student",
     "time": "MAY 2022 - DEC 2022",
     "bullet points": [
@@ -19,7 +19,7 @@
     ]
   },
   {
-    "logo": "/img/wicc_logo.png",
+    "logo": "/img/amnhlogo.jpeg",
     "role": "American Museum of Natural History BridgeUp: STEM Intern",
     "time": " JULY 2020 - JULY 2021",
     "bullet points": [

@@ -1,24 +1,22 @@
 [
   {
-    "name": "Project Name",
-    "logo": "/img/projectimg.png",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas nec urna ac tellus volutpat viverra. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.",
+    "name": "Nudge",
+    "logo": "/img/Nudge2024.png",
+    "description": "Collaborated with a team of five to develop Nudge, a motivational workout app that is personalized to users. Promotes staying active and reduces a sedentary lifestyle using data from a smart watch. Designed the introduction and community page for Nudge’s mobile app  as well as the smart watch display using Figma.",
     "link": "",
     "tools": [
-      "React",
-      "Figma",
-      "Git"
+      "Figma"
     ]
   },
   {
-    "name": "Project Name",
-    "logo": "/img/projectimg.png",
+    "name": "Gene-iuses",
+    "logo": "/img/AMNH.png",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas nec urna ac tellus volutpat viverra. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.",
-    "link": "",
+    "link": "https://nhenhunter.github.io/wesite_interns21/Background.html",
     "tools": [
-      "React",
-      "Figma",
-      "Git"
+      "Python",
+      "HTML",
+      "CSS"
     ]
   },
   {
