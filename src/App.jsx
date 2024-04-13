@@ -19,7 +19,7 @@ function App() {
             {/* TODO 1: Edit the content of these tags!*/}
             <h1>Hi! I'm Elizabeth Woo</h1>
             <p>
-              A current first year undergraduate student at Cornell University in the College of Engineering studying Information Science, Systems, and Technology!
+              A current undergraduate student at Cornell University in the College of Engineering studying Computer Science!
             </p>
             <div className="flex flex-row items-center space-x-2">
               <img src={location} />
