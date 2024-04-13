@@ -5,7 +5,7 @@ import instalogo from "/src/img/instagram.svg";
 import figmalogo from "/src/img/figma.svg";
 import location from "/src/img/location.svg";
 import linkedinlogo from "/src/img/linkedin.svg";
-import selfImg from "/src/img/Self.png";
+import selfImg from "/src/img/Self.jpeg";
 import Experience from "./components/Experience.jsx";
 import Project from "./components/Project.jsx";
 import Footer from "./components/Footer.jsx";
